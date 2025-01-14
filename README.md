@@ -13,20 +13,20 @@ This project involves analyzing job postings data scrapped from LinkedIn. The an
 
 
 **2. Exploratory Data Analysis (EDA)**
-•	Tools: Python (Matplotlib, Seaborn)
-•	Key Steps:
-          o	Analyzed job trends, skill demands, and location preferences.
-          o	Visualized insights like:
+- Tools: Python (Matplotlib, Seaborn)
+- Key Steps:
+            - Analyzed job trends, skill demands, and location preferences.
+            - Visualized insights like:
             - Job Openings In Each Company
             - Job Openings by State
-            -	Job Openings at Levels
-            -	Job Openings for Involvement
-            -	Job Openings Compared to Total Applicants by Company
-          o	Dataset used: processed_data.xlsx (cleaned data from the previous step).
+            - Job Openings at Levels
+            - Job Openings for Involvement
+            - Job Openings Compared to Total Applicants by Company
+- Dataset used: processed_data.xlsx (cleaned data from the previous step).
 
 **3. Dashboard Creation**
-•	Tool: Power BI
-•	Key Steps:
+- Tool: Power BI
+- Key Steps:
   - Designed an interactive dashboard to showcase key metrics and trends.
   - Visualized insights such as job distributions, salary trends, and skill requirements.
 
@@ -41,7 +41,7 @@ This project involves analyzing job postings data scrapped from LinkedIn. The an
 - Visualization: Power BI
 
 ## How to Run
-- Clone the repository:git clone https://github.com/yourusername/linkedin-job-analysis.git
+- Clone the repository:git clone https://github.com/GouthamJS/Linkedin-JobAnalysis.git
 - Install required libraries:pip install pandas numpy matplotlib seaborn
 - Open the notebooks in Jupyter or any Python IDE to run the analysis.
 - Explore the Power BI dashboard for detailed insights.
