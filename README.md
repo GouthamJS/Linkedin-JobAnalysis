@@ -15,13 +15,13 @@ This project involves analyzing job postings data scrapped from LinkedIn. The an
 **2. Exploratory Data Analysis (EDA)**
 - Tools: Python (Matplotlib, Seaborn)
 - Key Steps:
-            - Analyzed job trends, skill demands, and location preferences.
-            - Visualized insights like:
-            - Job Openings In Each Company
-            - Job Openings by State
-            - Job Openings at Levels
-            - Job Openings for Involvement
-            - Job Openings Compared to Total Applicants by Company
+  - Analyzed job trends, skill demands, and location preferences.
+  - Visualized insights like:
+    - Job Openings In Each Company
+    - Job Openings by State
+    - Job Openings at Levels
+    - Job Openings for Involvement
+    - Job Openings Compared to Total Applicants by Company
 - Dataset used: processed_data.xlsx (cleaned data from the previous step).
 
 **3. Dashboard Creation**
