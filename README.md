@@ -5,11 +5,11 @@ This project involves analyzing job postings data scrapped from LinkedIn. The an
 ## Project Workflow
 
 **1. Data Cleaning**
-•	Tools: Python (Pandas, NumPy)
-•	Key Steps:
-          - Loaded the raw data from scrapped data.csv.
-          - Processed columns such as Level_and_involvement to extract detailed information (e.g., Level and Involvement).
-          - Addressed missing values, standardized formats, and ensured data consistency.
+- Tools: Python (Pandas, NumPy)
+- Key Steps:
+  - Loaded the raw data from scrapped data.csv.
+  - Processed columns such as Level_and_involvement to extract detailed information (e.g., Level and Involvement).
+  - Addressed missing values, standardized formats, and ensured data consistency.
 
 
 **2. Exploratory Data Analysis (EDA)**
