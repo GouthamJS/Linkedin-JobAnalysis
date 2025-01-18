@@ -1,4 +1,5 @@
 # LinkedIn Job Data Analysis
+# [![LinkedIn](https://img.shields.io/badge/LinkedIn-Job%20Data%20Analysis-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
 This project involves analyzing job postings data scrapped from LinkedIn. The analysis was conducted in two phases: data cleaning and exploratory data analysis (EDA). The insights were visualized using Python and an interactive dashboard was created using Power BI.
 
