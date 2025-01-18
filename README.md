@@ -1,4 +1,8 @@
-<a href="https://www.linkedin.com/in/goutham-j-s-740aaa204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/goutham-j-s-740aaa204/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/goutham-j-s-740aaa204/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+       alt="https://www.linkedin.com/in/goutham-j-s-740aaa204/" height="50" width="50" />
+</a>
+
 # LinkedIn Job Data Analysis
 
 This project involves analyzing job postings data scrapped from LinkedIn. The analysis was conducted in two phases: data cleaning and exploratory data analysis (EDA). The insights were visualized using Python and an interactive dashboard was created using Power BI.
