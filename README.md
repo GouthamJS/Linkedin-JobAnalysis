@@ -56,4 +56,4 @@ This project involves analyzing job postings data scrapped from LinkedIn. The an
 - Identified top job roles and skills in demand.
 - Highlighted job distribution across locations and levels.
 - Created actionable insights for job seekers and recruiters.
-  
+  ![Screenshot (495)](https://github.com/GouthamJS/Linkedin-JobAnalysis/blob/main/Data%20Visualization/LinkedIn%20Job%20Analysis%20Dashboard.png)
